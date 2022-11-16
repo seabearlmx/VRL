@@ -1,6 +1,6 @@
 # VRL
 
-The code is coming soon!
+The code is coming soon after paper's publication!
 
 This is the PyTorch Implementation for our paper:
 
